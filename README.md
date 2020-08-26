@@ -1,6 +1,6 @@
-# Bullpen Tech Group – 2020 Election Analysis
+# [Bullpen Tech Group](https://bullpentechnologygroup.com) – 2020 Election Analysis
 
-Bullpen Technology Group builds innovative resources and applications to help meet today’s evolving communications, policy analysis, and public affairs challenges. 
+[Bullpen Technology Group](https://bullpentechnologygroup.com) builds innovative resources and applications to help meet today’s evolving communications, policy analysis, and public affairs challenges. 
 
 # [DNC Speaker Analysis](https://datastudio.google.com/s/gmMa2vKuKyA)
 
